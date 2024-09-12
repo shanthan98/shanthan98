@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://shanthan98.github.io/](https://shanthan98.github.io/)
+- 👨‍💻 All of my projects are available at [Click on me](https://github.com/shanthan98?tab=repositories)
 
 - 💬 Ask me about **Data Analysis,Visualization,SQL**
 
