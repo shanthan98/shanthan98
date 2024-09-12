@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shanthankss2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lW2fGl8OujS8Vct9dSoeRqgoEVkY9QXy/view?usp=sharing](https://drive.google.com/file/d/1lW2fGl8OujS8Vct9dSoeRqgoEVkY9QXy/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RtT0zRO8yGOrs-IAdmSm-1DeayENiMZk/view?usp=sharing)
 
 - ⚡ Fun fact **"I can debug a SQL query faster than I can decide what to order for lunch!"**
 
