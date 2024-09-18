@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analysis projects**
 
-- 👨‍💻 All of my projects are available at [Click Here](https://shanthan98.github.io/)
+- 👨‍💻 All of my projects are available at [Click Here](https://github.com/shanthan98?tab=repositories)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@shanthan)
 
