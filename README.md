@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **"I can debug a SQL query faster than I can decide what to order for lunch!"**
 
-![Profile Views](https://komarev.com/ghpvc/?username=shanthan98&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=shanthan98&color=brightgreen)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
