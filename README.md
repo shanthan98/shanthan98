@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **Data Analysis,Visualization,SQL**
 
-- 📫 How to reach me **shanthankss2+@gmail.com**
+- 📫 How to reach me **shanthankss2+work@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lW2fGl8OujS8Vct9dSoeRqgoEVkY9QXy/view?usp=sharing)
 
